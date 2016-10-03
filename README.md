@@ -1,14 +1,17 @@
 
 Persoonlijke gegevens
 ---------------------
-|              |                                 |
-| ------------ | ------------------------------- |
-| Student      | Brent Malfliet                  |
-| Email        | brenmalf@student.arteveldehs.be |
-| Academiejaar | 2016-17                         |
-| Adres        | Langestraat 34                  |
-| ------------ | 9240 Zele                       |
 
+![Brent](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D)
+
+|                     |                                |
+| ------------        | ------------------------------ |
+| Student             | Brent Malfliet                 |
+| Opleidingsonderdeel | New Media Design & Development |
+| Afstudeerrichting   | Multimediaproductie (MMP)      |
+| Specialisatie       | proDEV                         |
+| Onderwijsinstelling | Arteveldehogeschool            |
+| Academiejaar        | 2016-17                        |
 
 
 
