@@ -1,10 +1,11 @@
 
 Persoonlijke gegevens
 ---------------------
-| Naam | Brent Malfliet |
+|:------|:-------------------------------:|
+| Naam  | Brent Malfliet                  |
 | Email | brenmalf@student.arteveldehs.be |
-| Adres | Langestraat 34 |
-| | 9240 Zele |
+| Adres | Langestraat 34                  |
+|:------| 9240 Zele                       |
 
 
 
