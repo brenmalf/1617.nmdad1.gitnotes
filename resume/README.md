@@ -19,8 +19,8 @@ Personalia (persoonlijke gegevens)
 
 Opleiding(en)
 ---
-Moderne Talen - Wetenschappen  @OLVI PIUS X
-Grafisch Ontwerp @KASK
+* Moderne Talen - Wetenschappen  @OLVI PIUS X
+* Grafisch Ontwerp @KASK
 
 Werkervaring(en)
 ---
@@ -43,13 +43,13 @@ Favoriete websites en apps
 
 Talenkennis
 ---
-Nederlands: zeer goed
+**Nederlands**: zeer goed
 
-Engels: goed 
+**Engels**: goed 
 
-Frans: degelijk
+**Frans**: degelijk
 
-Duits: goed
+**Duits**: goed
 
 
 Overige
