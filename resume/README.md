@@ -34,21 +34,30 @@ Nevenactiviteit(en)
 Computerkennis
 ---
 Software
+
 Webtechnologie
+
 Programmeertalen
+
 Favoriete websites en apps
 
 Talenkennis
 ---
 Nederlands: zeer goed
+
 Engels: goed 
+
 Frans: degelijk
+
 Duits: goed
+
 
 Overige
 ---
 lid van KSA Zele
+
 lid bij Tafeltennisclub Zele
+
 Gitaar & vocalen bij The Period Surfers
 
 
