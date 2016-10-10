@@ -1,5 +1,5 @@
 ![Brent](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D)
-
+<img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D" width="50px">
 - - - - 
 
 Personalia (persoonlijke gegevens)
@@ -22,10 +22,23 @@ Personalia (persoonlijke gegevens)
 Opleiding(en)
 ---
 ```
-* Moderne Talen - Wetenschappen  @OLVI PIUS X
-* Grafisch Ontwerp @KASK
+2008-2014
+```
+
+Moderne Talen - Wetenschappen  *@OLVI PIUS X*
 
 ```
+2014-2015
+```
+
+Grafisch Ontwerp _@KASK_
+
+```
+2015-heden
+```
+
+Professional Development _@Arteveldehogeschool_
+
 
 Werkervaring(en)
 ---
@@ -37,7 +50,7 @@ Cursussen en Workshops
 
 Nevenactiviteit(en)
 ---
-
+/
 
 Computerkennis
 ---
