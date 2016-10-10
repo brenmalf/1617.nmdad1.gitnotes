@@ -1,5 +1,4 @@
-![Brent](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D =250)
-<img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D" width="50px">
+<img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/11817209_1162930217054340_8596177917369584767_n.jpg?oh=8d990fe98e37cc55daa3bd2d15292876&oe=587B3C8D" width="250px">
 - - - - 
 
 Personalia (persoonlijke gegevens)
